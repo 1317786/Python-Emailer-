@@ -1,4 +1,4 @@
-<h1>Password Strength Checker</h1>
+<h1>Python Emailer</h1>
 
 
 <h2>Description</h2>
@@ -7,7 +7,8 @@ In this project, we will be building a Python script designed to assess the stre
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b> 
+- <b>Python</b>
+- <b>Nano Text Editor</b> 
 
 <h2>Environments Used </h2>
 
