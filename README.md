@@ -16,11 +16,9 @@ In this project, we will be developing a Python script designed to automate the 
 
 <h2>Takeaways</h2>
 
-- <b>Development and Enhancement of Python Scripting Skills</b>: Successfully developed a Python script designed to evaluate the strength of passwords based on predefined security criteria. This project showcased the ability to integrate Python’s string handling capabilities with file operations, advancing skills in creating practical security tools. Demonstrated proficiency in Python programming by implementing conditional logic and loops to assess various password characteristics effectively.
+- <b>Development and Implementation of Python Email Automation</b>: Successfully developed a Python script that automates email sending using the smtplib library. This project demonstrated proficiency in Python by implementing email composition and dispatching functionality, including the ability to attach files and customize messages. Advanced Python skills were enhanced through integrating network protocols, contributing to effective automated communication solutions.
 
-- <b>Practical Application and Security Awareness</b>: Gained practical experience in implementing security measures within software applications by testing the password strength checker against a comprehensive list of commonly used passwords. This process emphasized the critical role of strong password policies in protecting user data and reinforced the importance of avoiding common passwords, which are susceptible to brute-force attacks and other cracking methods.
-
-- <b>Understanding of Password Security Best Practices</b>: Through the development of this tool, reinforced the best practices for creating strong, unguessable passwords that enhance security. This project highlighted the balance between user convenience and the necessity for rigorous security measures in password management.
+- <b>Practical Experience with Email Handling in Python</b>: Gained hands-on experience in automating email communication processes, emphasizing the practical use of Python in real-world applications. This project highlighted the importance of understanding email protocols and security considerations such as handling credentials and ensuring safe message transmission in automation workflows.
 
 
 <h2>Program walk-through:</h2>
