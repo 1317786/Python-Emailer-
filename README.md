@@ -28,11 +28,10 @@ Example passwords being ran against the password strength checker, with some bei
 <img src="password strength check verification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p align="center">
 Example passwords being ran against the password strength checker, with some being denied and informed to try again, and others meeting the criteria for successful password creation: <br/>
 <img src="password strength check verification.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-
 
 
 
