@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this project, we will be building a Python script designed to assess the strength of passwords. The goal is to develop a tool that evaluates user passwords based on criteria such as length, the inclusion of uppercase and lowercase letters, numbers, special characters, and their commonality against a database of frequently used passwords. This exercise serves as a fundamental lesson in understanding the robustness of passwords and the importance of creating secure, hard-to-crack credentials. <br />
+In this project, we will be developing a Python script designed to automate the sending of emails. The objective is to construct a tool that allows for easy composition and dispatching of emails, complete with capabilities for attaching files and customizing sender and recipient details. This exercise serves as an essential introduction to working with Python’s email handling capabilities, leveraging the smtplib library to enhance communication efficiency and understand the basics of network protocols in software development. <br />
 
 
 <h2>Languages and Utilities Used</h2>
