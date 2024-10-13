@@ -24,7 +24,7 @@ In this project, we will be developing a Python script designed to automate the 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Example passwords being ran against the password strength checker, with some being denied and informed to try again, and others meeting the criteria for successful password creation: <br/>
+Code for python script that will send out the customized email, with 2 emails of mine acting as sender and receiver of this email: <br/>
 <img src="code for emailer.PNG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
